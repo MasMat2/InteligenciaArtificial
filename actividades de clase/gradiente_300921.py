@@ -1,6 +1,5 @@
 import random, math
 import numpy as np
-from fractions import Fraction
 
 # Funcion a minimizar
 f = lambda x,y,z: (x*x+y*y+z*z)
